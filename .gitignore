@@ -1,0 +1,4 @@
+build/
+install/
+log/
+echo -e build/ninstall/nlog/ncolcon_install_layout
